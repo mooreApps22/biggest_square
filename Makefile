@@ -1,5 +1,5 @@
 all:
-  cc -Wall -Wextra -Werror main.c -g3
-
+	cc -Wall -Wextra -Werror main.c -o bsq
 clean:
-  rm a.out
+	rm files/file*
+	rm bsq

@@ -37,7 +37,7 @@ In Example 2, the biggest square is 7 by 7. Note that it doesn't look like a squ
 
 **Set up:** 
 
-If you wish to read the exact requirements, please read the subject. 
+If you wish to read the exact requirements, please read the subject.txt file in this repo. 
 
 In addition to a solutions to this coding challenge I have provided a couple of shell scripts. Make sure that you run `chmod +x run.sh` and `chmod +x file_builder.sh` before executing it. `run.sh` takes a integer as a count argument. This count will be the number of times a file with a random bit maps dimensions will be generated. A obstable character will be placed randomly in one position of each line of the bitmaps. Then the bsq.c (biggest square) will find where the biggest square in the randomly generated bitmap is. 
 
